@@ -1,0 +1,19 @@
+{
+  "name": "clerk-app",
+  "version": "1.0.0",
+  "description": "app for law clerks",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jwalsh370/clerk-app.git"
+  },
+  "author": "jahan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jwalsh370/clerk-app/issues"
+  },
+  "homepage": "https://github.com/jwalsh370/clerk-app#readme"
+}
